@@ -4,9 +4,8 @@ import { motion } from 'framer-motion';
 
 import styles from '../styles';
 import { insights } from '../constants';
-import {  staggerContainer } from '../utils/motion';
+import { staggerContainer } from '../utils/motion';
 import { InsightCard, TitleText, TypingText } from '../components';
-
 
 const Insights = () => (
   <section>
@@ -19,9 +18,11 @@ const Insights = () => (
     >
 
       <TypingText title="Insight"
-      textStyles="text-center" />
+        textStyles="text-center"
+      />
       <TitleText title="Insight about metaverse"
-      textStyles="text-center" />
+        textStyles="text-center"
+      />
 
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((item, index) => (
