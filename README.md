@@ -6,21 +6,21 @@
 
 
 
-<p align="center">
+<h2 style="color: #a509ff" align="center">
   Metaverse landing page 📰🚀
   <br>
   <br>
 
 
-</p>
+</h2>
 
 ---
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; &#xa0; 
+  <a href="#dart-sobre">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-tecnologias">Technology</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requerimentos">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Starting</a> &#xa0; &#xa0; 
  
 </p>
 
